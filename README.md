@@ -25,7 +25,7 @@ Other hardware and networking utilized includes the following:
 - Ethernet Networking
 - Thermocouples >= 2
     - Type K
-        Range: -200$\degreesC$ to 1350$\degreeC$
+        Range: -200$\degree$C to 1350C
 - 2x Type K (-200C to 1350C, 41uV/C Sensitivity), Type T(-200C to 350C, 43uV/C), or Type E(-110C to 140C, 68uV/C); most likely Type T.
 - Omega Force Strain Gauge
 - Microcontroller and assorted electrical components including:
