@@ -19,7 +19,10 @@ Sub-Project Two is considerably more complex than Sub-Project One. To Start, it 
 - Potentially Keithley 2700 Multimeter, Current or Voltage Source, and Data Acquisition Device
 
 Other hardware and networking utilized includes the following:
-- Ethernet Hardware
+<table border="0">
+    <tr>
+        <td>
+        - Ethernet Hardware
     - Managed Switch; Ethernet Networking
     - Wiring/Cabling
     - Ethernet to GPIB Adapter
@@ -95,7 +98,9 @@ Other hardware and networking utilized includes the following:
         - Signal Diodes
         - Zerner Diodes
         - Rectifier Diodes
-    - Voltage Regulators
+        </td>
+        <td>
+        - Voltage Regulators
         - Negative Voltage
         - Positive Voltage
     - Current Regulators
@@ -166,7 +171,10 @@ Other hardware and networking utilized includes the following:
     - Phase Locked Loop
     - Monostable MultiVibrator
     - Astable MultiVibrator
-    - 
+        </td>
+    </tr>
+</table>
+
 - Hardware Interface for Initialization, Activation, Simple Configuration, and Simple/Basic Control.
 - Computer and Software Interface for System Use, Control, Data Collection, Data Retrieval, Analysis, Sub-System Management, etc. 
 - Atmospheric Hygrometer / Humidity Sensor
