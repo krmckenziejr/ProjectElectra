@@ -26,8 +26,14 @@ Other hardware and networking utilized includes the following:
 - Thermocouples >= 2
     - Type K
         - Range:        -200&deg;C to 1350&deg;C
-        - Sensitivity:  41&mu;V/C Sensitivity
-- 2x Type K (-200C to 1350C, 41uV/C Sensitivity), Type T(-200C to 350C, 43uV/C), or Type E(-110C to 140C, 68uV/C); most likely Type T.
+        - Sensitivity:  41&mu;V/C
+    - Type T
+        - Range:        -200&deg;C to 350&deg;C
+        - Sensitivity:  43&mu;V/C
+    - Type E
+        - Range:        -110&deg;C to 140&deg;C
+        - Sensitivity:  68&mu;V/C
+    -Most Likely Type Chosen is Type T
 - Omega Force Strain Gauge
 - Microcontroller and assorted electrical components including:
     - Precision Strain Gauge
