@@ -19,10 +19,11 @@ Sub-Project Two is considerably more complex than Sub-Project One. To Start, it 
 - Potentially Keithley 2700 Multimeter, Current or Voltage Source, and Data Acquisition Device
 
 Other hardware and networking utilized includes the following:
-- Ethernet Switch
-- Ethernet to GPIB Adapter
+- Ethernet Hardware
+    - Managed Switch; Ethernet Networking
+    - Wiring/Cabling
+    - Ethernet to GPIB Adapter
 - GPIB Networking
-- Ethernet Networking
 - Thermocouples >= 2
     - Type K
         - Range:        -200&deg;C to 1350&deg;C
@@ -33,14 +34,21 @@ Other hardware and networking utilized includes the following:
     - Type E
         - Range:        -110&deg;C to 140&deg;C
         - Sensitivity:  68&mu;V/C
-    -Most Likely Type Chosen is Type T
-- Omega Force Strain Gauge
+    - Most Likely Type Chosen is Type T
+- Strain Gauge
+    - Precise
+    - Sensitive
+    - Detect Small (&mu;m or smaller changes is goal)
 - Microcontroller and assorted electrical components including:
-    - Precision Strain Gauge
     - Operational Amplifiers
         - Standard
         - Instrumental
         - Rail to Rail
+        - Precision
+        - JFET
+        - Low Noise
+        - Low Power
+        - Type Combination
     - Resistors
         - Low Accuracy
         - High Accuracy
@@ -48,13 +56,27 @@ Other hardware and networking utilized includes the following:
         - High Wattage/Current
     - Inductors
         - Standard
+        - Wire Coils
         - Toroid
     - Capacitors
+        - General
         - Ceramic
         - Electrolytic
         - Polymer
+        - Tantalum
         - Etc.
     - Transistors
+        - General
+            - NPN
+            - PNP
+        - FET
+            - NPN
+            - PNP
+        - MOSFETT 
+            - NPN
+            - PNP
+        - IGBT
+        - UJT
     - 4 x Analog to Digital Converter (ADC) >= 16bit
     - PIR Motion Detector
     - Potentiometers, varying resistance ranges
@@ -70,8 +92,15 @@ Other hardware and networking utilized includes the following:
         - Tapped
     - Diodes
         - General
+        - Signal Diodes
         - Zerner Diodes
+        - Rectifier Diodes
     - Voltage Regulators
+        - Negative Voltage
+        - Positive Voltage
+    - Current Regulators
+        - Negative Current
+        - Positive Current
     - Multiple Fuses
     - Oscillators
         - Crystal
@@ -90,6 +119,18 @@ Other hardware and networking utilized includes the following:
         - SR Type
     - 555 Timers
     - Counter
+        - Binary
+            - Up
+            - Down
+        - Decade
+            - Up
+            - Down
+        - Decimal
+            - Up
+            - Down
+        - Octal
+            - Up
+            - Down
     - EEPROM(s)
     - Register(s)
     - Multiplexers
@@ -97,18 +138,35 @@ Other hardware and networking utilized includes the following:
     - Encoders
     - Decoders
     - TPM
-    - Shift Register
+    - Register
+        - General
+        - 8 Bit Shift
+        - 4 Step Shift
+        - 8 Step Shift
+        - 64 Step Shift
+        - Quad D Type
+        - 32 Stage Shift
+        - 4 Bit Right / Left Shift
+    - Comparator
     - Toroid Inductors
     - Triacs
     - Thyristor
     - Optocouplers
     - Rectifiers
+        - Full Wave Bridge Rectifier
     - Thermistors
+        - NTC Type
+        - PTC Type
     - Relays
         - Mechanical
         - Solid State
         - Optical
-
+    - Real Time Clock or RTC
+    - Analog Switch IC
+    - Phase Locked Loop
+    - Monostable MultiVibrator
+    - Astable MultiVibrator
+    - 
 - Hardware Interface for Initialization, Activation, Simple Configuration, and Simple/Basic Control.
 - Computer and Software Interface for System Use, Control, Data Collection, Data Retrieval, Analysis, Sub-System Management, etc. 
 - Atmospheric Hygrometer / Humidity Sensor
