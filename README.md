@@ -103,7 +103,7 @@ Other hardware and networking utilized includes the following:
                                 <li>NPN</li>
                                 <li>PNP</li>
                             </ul>
-                        <li>MOSFETT </li>
+                        <li>MOSFETT</li>
                             <ul>
                                 <li>NPN</li>
                                 <li>PNP</li>
