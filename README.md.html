@@ -238,18 +238,19 @@ Other hardware and networking utilized includes the following:
                 <li>Phase Locked Loop</li>
                 <li>Monostable MultiVibrator</li>
                 <li>Astable MultiVibrator</li>
+                <li>Hardware Interface for Initialization, Activation, Simple Configuration, and Simple/Basic Control.</li>
+                <li>Computer and Software Interface for System Use, Control, Data Collection, Data Retrieval, Analysis, Sub-System Management, etc. </li>
+                <li>Atmospheric Hygrometer / Humidity Sensor</li>
+                <li>Atmospheric Barometric Pressure Sensor</li>
+                <li>Pressure Transducer</li>
+                <li>Altimeter</li>
+                <li>Vibration Sensor</li>
+                <li>3 Axis Gyroscope</li>
+                <li>Thermal Camera</li>
             </ul>
         </td>
     </tr>
 </table>
 
-Hardware Interface for Initialization, Activation, Simple Configuration, and Simple/Basic Control.
-Computer and Software Interface for System Use, Control, Data Collection, Data Retrieval, Analysis, Sub-System Management, etc. 
-Atmospheric Hygrometer / Humidity Sensor
-Atmospheric Barometric Pressure Sensor
-Pressure Transducer
-Altimeter
-Vibration Sensor
-3 Axis Gyroscope
-Thermal Camera
+
 
