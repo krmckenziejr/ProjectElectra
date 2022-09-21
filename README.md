@@ -21,7 +21,7 @@ Sub-Project Two is considerably more complex than Sub-Project One. To Start, it 
 Other hardware and networking utilized includes the following:
 <table border="0">
     <tr>
-        <td>
+        <td valign="top">
             <ul>
                 <li>Ethernet Hardware</li>
                     <ul>
@@ -137,7 +137,7 @@ Other hardware and networking utilized includes the following:
                     </ul>
             </ul>
         </td>
-        <td>
+        <td valign="top">
             <ul>
                 <li>Voltage Regulators</li>
                     <ul>
