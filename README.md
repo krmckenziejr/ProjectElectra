@@ -18,6 +18,8 @@ Sub-Project Two is considerably more complex than Sub-Project One. To Start, it 
 - Thermal Products Solutions Tenney Model TJR Thermal Isolation Chamber
 - Potentially Keithley 2700 Multimeter, Current or Voltage Source, and Data Acquisition Device
 
+
+### Other Hardware for Sub-Project Two
 Other hardware and networking utilized includes the following:
 <table border="0">
     <tr>
