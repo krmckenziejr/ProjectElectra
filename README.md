@@ -2,9 +2,82 @@
 
 Project Electra is a rather complex multifaceted project dealing with, most simply put, electrical and electrochemical measurements. There are three Sub-Projects to Project Electra, however, only the first two will be made open-source and publicly available for a variety of reasons including the third's complexity, multi-field integration, primarily its potential for in its completed state to be a revolutionary commercial product, as well as a few other reasons. I would not suggest trying to devise what sub-project 3 is as it is ridiculously unlikely that even given Sub-Projects 1 & 2 knowledge Sub-Project 3 is related tangentially and non-linearly. 
 
-## Project Electra Sub-Project One
+## Project Electra Sub-Project One : Electra.SimpleArduinoCycler
 
 Sub-Project One is by and far the most simple. It is a battery cycler project that can perform cycling using the constant current method (CC) or constant current constant voltage method (CC/CV) during battery testing. 
+
+Namespace for Sub-Project One as displayed above is Electra.SimpleArduinoCycler
+
+### Components
+
+- Digital Potentiometer
+- 16 bit ADC(s)
+- Constant Voltage Source
+  - 5V
+  - 3.3V
+  - 1.5V
+- Constant Current Source
+- Either Relays or Digital Switches or Transistors
+- Arduino
+- Ethernet Interface
+- Reference Circuits
+- Shunt Resistor
+- Fuse
+- Instrumental Operational Amplifiers
+- Operational Amplifiers
+- Resistors -> High Precision, Likely High Power / Power Resistor
+- Interface Components
+  - Switches
+  - Buttons
+  - Rotary Encoders
+  - Display (Of Some Type)
+  - Computer Interface Port (Ethernet/RJ45)
+- General Power Supply, 12VDC Out, Min 2A
+- Capacitors
+  - Electrolytic
+  - Ceramic
+  - Polymer
+  - Etc.
+- MicroSD Data Interface OR USB Flash Drive Port
+- MOSFET
+- LEDs
+  - Red
+  - Yellow
+  - Green
+- Relay(s)
+  - Mechanical for Physical Disconnect
+  - Solid State
+- Diodes
+  - Zerner
+  - General
+- System Power Jack
+- EEPROM
+- Precision Crystal Oscillator
+- Real Time Clock / RTC
+- Thermal Sensing 
+  - Circuit / System 
+  - Thermocouple System
+  - Sensing for both sensitive measurement areas of the system as well as a port to monitor battery temperature
+[PLACEHOLDER TEXT]
+
+### Software/Coding Aspects
+
+
+
+### Instruments for Calibration AND Tools
+
+- Instruments
+  - K2182A NanoVoltmeter
+  - K2400 Bench Multimeter
+  - Oscilloscope
+  - Multimeter
+- Tools
+  - Wire Cutter/Stripper
+  - Soldering Iron
+  - Screwdrivers
+  - Hot Air Blower
+
+[PLACEHOLDER TEXT]
 
 ## Project Electra Sub-Project Two
 
